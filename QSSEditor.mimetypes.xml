@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+
+    <mime-type type="application/x-qss">
+        <alias type="text/x-qss"/>
+        <sub-class-of type="text/plain"/>
+        <comment>GLSL Shader file</comment>
+        <glob pattern="*.qss"/>
+    </mime-type>
+
+</mime-info>

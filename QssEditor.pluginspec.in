@@ -1,0 +1,14 @@
+<plugin name=\"QssEditor\" version=\"0.0.1\" compatVersion=\"0.0.1\">
+    <vendor>WangHoi</vendor>
+    <copyright>(C) Wang Hoi 2012</copyright>
+    <license></license>
+    <category>QSS</category>
+    <description>Simple Qt style sheet editor.</description>
+    <url>wanghoi@126.com</url>
+    <dependencyList>
+        <dependency name=\"Core\" version=\"$$QTCREATOR_VERSION\"/>
+        <dependency name=\"TextEditor\" version=\"$$QTCREATOR_VERSION\"/>
+        <dependency name=\"ProjectExplorer\" version=\"$$QTCREATOR_VERSION\"/>
+    </dependencyList>
+</plugin>
+
